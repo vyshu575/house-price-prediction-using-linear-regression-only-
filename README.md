@@ -1,2 +1,2 @@
-# house-price
+# house-price-prediction
 task 1
