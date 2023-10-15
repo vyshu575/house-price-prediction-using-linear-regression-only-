@@ -1,2 +1,2 @@
-# house-price-prediction-using-linear-regression-only-
+# house-price
 task 1
